@@ -5,7 +5,7 @@ title: Open-Source
 description: 
 nav: true
 nav_order: 4
-display_categories: [Projects]
+display_categories: [Open_source]
 horizontal: true
 ---
 
