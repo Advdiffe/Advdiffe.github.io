@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_projects
 permalink: /open-source/
 title: Open-Source
 description: 
