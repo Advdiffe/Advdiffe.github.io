@@ -10,44 +10,7 @@ horizontal: true
 ---
 
 
-<!-- 
----
-layout: page_projects
-permalink: /project/
-title: Project
-description: >
-nav: true
-nav_order: 3
-display_categories: [Projects]
-horizontal: true
----
-
-<b>TBD</b> The research projects that our AdvML-Group have been actively engaged in recently. -->
 
 
 <b>TBD</b> This is the open source code of our group's projects and articles.
 
-<!-- ***
-
-#### Data Science (CS3102, CS2020303)
-- Fall 2023
-- Spring 2023
-- Fall 2022
-
-***
-
-#### Deep Learning (CS3201, CS2030304)
-- Spring 2024
-- Spring 2023
-
-***
-
-#### Machine Learning (CS1030068, CS6030303)
-- Fall 2023
-- Spring 2023
-- Spring 2022
-
-***
-
-#### Artificial Intelligence and Machine Learning (CS1040194)
-- Spring 2024 -->
