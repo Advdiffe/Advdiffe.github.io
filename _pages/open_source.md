@@ -1,15 +1,28 @@
 ---
+layout: page_projects
+permalink: /project/
+title: Open-Source
+description: >
+nav: true
+nav_order: 3
+display_categories: [Projects]
+horizontal: true
+---
+
+<b>TBD</b> The research projects that our AdvML-Group have been actively engaged in recently.
+
+<!-- ---
 layout: page
 permalink: /open-source/
 title: Open-Source
 description: >
 nav: true
-nav_order: 2
+nav_order: 4
 display_categories: [Projects]
 horizontal: true
 ---
 
-<b>TBD</b> Undergraduate and graduate courses that I will be teaching annually.
+<b>TBD</b> Undergraduate and graduate courses that I will be teaching annually. -->
 
 <!-- ***
 
