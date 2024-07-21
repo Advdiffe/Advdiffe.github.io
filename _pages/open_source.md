@@ -9,17 +9,6 @@ display_categories: [Projects]
 horizontal: true
 ---
 
-<!-- ---
-layout: page_projects
-permalink: /project/
-title: Project
-description: >
-nav: true
-nav_order: 3
-display_categories: [Projects]
-horizontal: true
---- -->
-
 <b>TBD</b> Undergraduate and graduate courses that I will be teaching annually.
 
 <!-- ***
