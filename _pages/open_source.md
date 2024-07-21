@@ -25,7 +25,7 @@ horizontal: true
 <b>TBD</b> The research projects that our AdvML-Group have been actively engaged in recently. -->
 
 
-<b>TBD</b> Undergraduate and graduate courses that I will be teaching annually.
+<b>TBD</b> This is the open source code of our group's projects and articles.
 
 <!-- ***
 
