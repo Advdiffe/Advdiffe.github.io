@@ -22,7 +22,7 @@ horizontal: true
 
 <b>TBD</b> Undergraduate and graduate courses that I will be teaching annually.
 
-***
+<!-- ***
 
 #### Data Science (CS3102, CS2020303)
 - Fall 2023
@@ -45,4 +45,4 @@ horizontal: true
 ***
 
 #### Artificial Intelligence and Machine Learning (CS1040194)
-- Spring 2024
+- Spring 2024 -->
