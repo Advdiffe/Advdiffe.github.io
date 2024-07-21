@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Foreground Extraction Algorithm
-description: Supported by&#58; Omron Corporation (OMRON) <br> Year&#58; 2023 <br> Grant&#58; 125K(RMB) <br> Role&#58; PI
+title: TRM-UAP: Enhancing the Transferability of Data-Free Universal Adversarial Perturbation via Truncated Ratio Maximization
+description: Yiran Liu#, Xin Feng, Yunlong Wang, Wu Yang, and Di Ming*
+In Proceedings of the IEEE/CVF International Conference on Computer Vision, Oct 2023
 img:
-redirect: https://unsplash.com
+redirect: https://github.com/RandolphCarter0/TRMUAP
 importance: 002
 category: Open_source
 ---
