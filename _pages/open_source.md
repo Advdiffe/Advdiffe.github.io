@@ -1,17 +1,4 @@
 ---
-layout: page_projects
-permalink: /open-source/
-title: Open-Source
-description: >
-nav: true
-nav_order: 2
-display_categories: [Projects]
-horizontal: true
----
-
-<b>TBD</b> The research projects that our AdvML-Group have been actively engaged in recently.
-
-<!-- ---
 layout: page
 permalink: /open-source/
 title: Open-Source
@@ -22,9 +9,9 @@ display_categories: [Projects]
 horizontal: true
 ---
 
-<b>TBD</b> Undergraduate and graduate courses that I will be teaching annually. -->
+<b>TBD</b> Undergraduate and graduate courses that I will be teaching annually.
 
-<!-- ***
+***
 
 #### Data Science (CS3102, CS2020303)
 - Fall 2023
@@ -47,4 +34,4 @@ horizontal: true
 ***
 
 #### Artificial Intelligence and Machine Learning (CS1040194)
-- Spring 2024 -->
+- Spring 2024
