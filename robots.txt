@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://AdvML-Group.github.io/sitemap.xml
+Sitemap: https://Advdiffe.github.io/sitemap.xml
