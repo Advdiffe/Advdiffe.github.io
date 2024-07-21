@@ -8,7 +8,6 @@ importance: 002
 category: Open_source
 ---
 
-
 <!-- ---
 layout: page
 title: TRM-UAP: Enhancing the Transferability of Data-Free Universal Adversarial Perturbation via Truncated Ratio Maximization
