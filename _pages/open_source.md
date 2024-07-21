@@ -2,7 +2,7 @@
 layout: page
 permalink: /open-source/
 title: Open-Source
-description: >
+description: 
 nav: true
 nav_order: 4
 display_categories: [Projects]
